@@ -1,3 +1,4 @@
+//SUK
 // QQPlay window need to be inited first
 if (false) {
     BK.Script.loadlib('GameRes://libs/qqplay-adapter.js');
